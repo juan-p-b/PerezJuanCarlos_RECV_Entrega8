@@ -1,1 +1,2 @@
-# PerezJuanCarlos_RECV_Entrega8
+# Entrega 8
+Presentado por: Juan Carlos Pérez B.
